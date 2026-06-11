@@ -1,0 +1,43 @@
+# Arduino IDE
+*.ino.cpp
+*.ino.d
+*.o
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.hex
+*.bin
+*.elf
+
+# Build artifacts
+build/
+*.o
+*.pyc
+__pycache__/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Data files
+*.csv
+*.json
+*.log
+*.db
+
+# Temporary
+*.tmp
+.temp/

@@ -1,0 +1,20 @@
+# Arduino Development Requirements
+# Add Python tools for Arduino development
+
+# Serial communication
+pyserial==3.5
+
+# Data analysis
+numpy==1.24.3
+pandas==2.0.2
+matplotlib==3.7.1
+
+# Code quality
+black==23.7.0
+flake8==6.0.0
+
+# Testing
+pytest==7.4.0
+
+# Arduino CLI (optional)
+# arduino-cli
